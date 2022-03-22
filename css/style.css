@@ -22,7 +22,8 @@ header{
     margin: 10px auto;
     background-color: red;
     margin-top: 50px;
-    height: 120px;
+    height: 500px;
+    border-radius: 5px;
 }
 
 /* modifiche pulsanti */
@@ -38,9 +39,33 @@ button{
     height: 30px;
     background-color: rgb(8, 206, 255);
     border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 #aggiungi{
     padding-left: 5px;
     color: white;
+}
+
+.secondbutton{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 32px;
+    display: inline-block;
+}
+
+#second{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#secondtxt{
+    padding-left: 5px;
+    color:  silver;
+}
+
+.primasezione{
+    border-bottom: 2px solid black;
 }
