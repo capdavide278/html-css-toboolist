@@ -22,13 +22,13 @@ header{
     margin: 10px auto;
     background-color: red;
     margin-top: 50px;
-    height: 500px;
+    height: 800px;
     border-radius: 5px;
 }
 
 /* modifiche pulsanti */
 .button{
-    padding-left: 20px;
+    padding-left: 70px;
     padding-top: 20px;
     font-size: 32px;
     display: inline-block;
@@ -67,5 +67,20 @@ button{
 }
 
 .primasezione{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid gray;
+}
+
+/* inserimento delle diverse parti */
+.containerinterno{
+    width: 90%;
+    margin: 10px auto;
+}
+
+.simbolo{
+    font-size: 35px;
+}
+
+.moments{
+    color: black;
+    font-size: 35px;
 }
