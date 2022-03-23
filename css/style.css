@@ -28,7 +28,8 @@ header{
 
 .inlinea{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 55px;
+    font-size: 50px;
+    vertical-align: middle;
 }
 
 /* creazione contenitore */
